@@ -1,6 +1,7 @@
 class ChessBoardSquare:
     
     def __init__(self):
+        self.shade = None
         self.piece = None
         self.is_empty = True
         
