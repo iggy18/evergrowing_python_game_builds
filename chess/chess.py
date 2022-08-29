@@ -26,3 +26,6 @@ class Chess:
         pieces = get_both_chess_sets()
         self.place_pieces('bottom', pieces['white'])
         self.place_pieces('top', pieces['black'])
+
+    def move():
+        pass
